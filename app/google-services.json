@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "365333993031",
+    "firebase_url": "https://searchl-ae0dd.firebaseio.com",
+    "project_id": "searchl-ae0dd",
+    "storage_bucket": "searchl-ae0dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365333993031:android:47683d06cc045bf1",
+        "android_client_info": {
+          "package_name": "com.eduardo.searchl.searchl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365333993031-dasc0dnnqg75vm94puk2tug9hi7r870q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMo2V5nUQquCBfpHbjH8DQg1WbEjkAN3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
